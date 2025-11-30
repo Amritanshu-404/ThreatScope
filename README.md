@@ -138,26 +138,6 @@
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-### Dashboard Overview
-*Real-time threat monitoring and scan history*
-
-### Document Upload
-*Drag-and-drop interface for easy file selection*
-
-### Threat Analysis Results
-*Detailed breakdown of detected keywords*
-
-### PDF Report Generation
-*Professional, exportable threat reports*
-
-</div>
-
----
-
 ## 🎯 Use Cases
 
 ### For Cybersecurity Professionals
