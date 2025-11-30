@@ -6,7 +6,6 @@
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb)
 ![Vite](https://img.shields.io/badge/Vite-5.0+-646CFF?logo=vite)
 ![Tailwind](https://img.shields.io/badge/Tailwind-CSS-38B2AC?logo=tailwind-css)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Privacy](https://img.shields.io/badge/Privacy-First-red.svg)
 
 **Intelligently scan documents for threats while keeping your data 100% local**
@@ -119,7 +118,7 @@
    - Provides contextual insights
 
 4. **Results & Export**
-   - View detailed findings on dashboard
+   - View detailed findings on the dashboard
    - Export professional PDF reports
    - Share or archive for documentation
 
